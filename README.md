@@ -1,5 +1,5 @@
 # conversion-b10-b2
-Made solely by me with no assistance nor research.
+Made solely by me with no assistance nor research (for the algorithms; for the GUI stuff, I looked stuff up haha).
 
 I've designed it to convert specific characters that I've assigned a specific base-10 value with its base-2 equivalent (key is below).
 
