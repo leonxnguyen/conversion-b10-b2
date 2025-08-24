@@ -1,7 +1,9 @@
 # conversion-b10-b2
 Made solely by me with no assistance nor research.
 
-I've designed it to convert between specific characters that I've assigned a specific base-10 value (key is below), but with slight modifications, it's capable of converting any number from base-10 to base-2 and vice-versa.
+I've designed it to convert specific characters that I've assigned a specific base-10 value with its base-2 equivalent (key is below).
+
+With slight modifications, it's capable of converting any number from base-10 to base-2 and vice-versa.
 
 
 a - 1 
