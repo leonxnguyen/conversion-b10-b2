@@ -18,8 +18,8 @@ Linux: it should be available via your package manager—I believe the command f
 3. Run `binary_to_char.py` (couldn't think of a good name, sorry 😞)
 
 ## To Add
-Option to create your own key!
-Character limit and moving excess text to another line.
+1. Option to create your own key!
+2. Character limit and moving excess text to another line.
 
 ## Key
 
