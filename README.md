@@ -13,7 +13,7 @@ With slight modifications, it's capable of converting any number from base-10 to
 
 MacOS: Run `brew install python-tk`
 
-Linux: it should be available via your package manager—I believe the command for installation will vary based on you Linux distro.
+Linux: it should be available via your package manager—I believe the command for installation will vary based on you Linux distro (and package manager).
 
 3. Run `binary_to_char.py` (couldn't think of a good name, sorry 😞)
 
