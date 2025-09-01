@@ -21,7 +21,7 @@ Linux: it should be available via your package manager—I believe the command f
 1. Option to create your own key!
 2. Character limit and moving excess text to another line.
 
-## Key
+## Default Key
 
 | Character     | Base-10 Value   |
 | ------------- | ------------- |
