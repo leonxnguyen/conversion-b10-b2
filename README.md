@@ -1,7 +1,7 @@
 # Introduction
 
 ## About
-Created for a course I'm teaching. Made solely by me with no assistance nor research (only for the algorithms and whatnot though; for the GUI stuff, I had to look stuff up haha).
+Created for a course I'm teaching titled ("Mathematics for Computer Science"). Made solely by me with no assistance nor research (only for the algorithms and whatnot though; for the GUI stuff, I had to look stuff up haha).
 
 I've designed it to convert specific characters that I've assigned a specific base-10 value with its base-2 equivalent (key is located at the bottom).
 
